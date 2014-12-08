@@ -14,7 +14,7 @@ Templates from this project can be used by [lazybones](https://github.com/pledbr
     ```groovy
     bintrayRepositories = [
       "pledbrook/lazybones-templates",
-      "zedar/templates"
+      "zedar/lazybone-templates"
     ]
     ```
 
